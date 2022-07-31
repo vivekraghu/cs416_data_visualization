@@ -71,7 +71,7 @@ var svg = d3.select("#my_dataviz")
           "translate(" + margin.left + "," + margin.top + ")");
 
 //Read the data
-d3.csv("https://raw.githubusercontent.com/vivekraghu/cs416_data_vz/master/data/gdp_urban.csv", function(data) {
+d3.csv("https://raw.githubusercontent.com/vivekraghu/cs416_data_visualization/master/data/gdp_urban.csv", function(data) {
 
   // Add X axis
 var xScale=d3.scaleLinear().domain([-10,12]).range([0,width]);
