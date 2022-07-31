@@ -1,5 +1,3 @@
-# cs416_data_visualization
-
 #  Objective of the visualization:
 
 In this Project I am aiming to provide narrative around how much of an impact does urbanization of a country have on GDP growth which is finally leading to deforestation. As result of urbanization there is a inorganic increase in cities area and hence increase in deforestation. This phenomenon if left unchecked will be very harmful on the environment and will lead to further increase in pollution in certain or all parts of the country.
